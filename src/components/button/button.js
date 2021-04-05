@@ -5,7 +5,7 @@ import './button.css';
 function Button({label}) {
     return (
         <div data-testid="button" className="btn-style">
-            {label}
+          Hi  {label}
         </div>
     )
 }
